@@ -81,8 +81,11 @@
 ---
 
 ### 🗄️ Databases
+### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,chromaDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ChromaDB-5A31F4?style=for-the-badge" />
 </p>
 
 ---
