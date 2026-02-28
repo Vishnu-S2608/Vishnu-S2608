@@ -55,27 +55,33 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<table>
+<table width="100%">
 
 <tr>
-<td width="33%" align="center">
-<h3>💻 Programming Languages</h3>
+<td width="33%" align="center" valign="top">
+
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 
 </td>
 
-<td width="33%" align="center">
-<h3>🌐 MERN Stack</h3>
+<td width="33%" align="center" valign="top">
+
+### 🌐 MERN Stack
 
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 
 </td>
 
-<td width="33%" align="center">
-<h3>🧠 AI & ML</h3>
+<td width="33%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi" /><br/><br/>
+### 🧠 AI & ML
+
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge" />
@@ -86,15 +92,17 @@
 </tr>
 
 <tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
+<td width="50%" align="center" valign="top">
+
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
 
 </td>
 
-<td width="50%" align="center">
-<h3>⚡ Tools</h3>
+<td width="50%" align="center" valign="top">
+
+### ⚡ Tools
 
 <img src="https://skillicons.dev/icons?i=git,vscode,postman,firebase,pycharm" />
 
@@ -103,7 +111,6 @@
 
 </table>
 </p>
-
 ---
 
 ## 🚀 What I’m Currently Building
