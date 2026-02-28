@@ -82,7 +82,7 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,chromaDB" />
 </p>
 
 ---
