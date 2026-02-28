@@ -5,116 +5,128 @@
   Hi, I'm <strong>S VISHNU</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python </h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&width=900&lines=AI+Enthusiast+%26+Intelligent+Systems+Builder;Full+Stack+Developer+(MERN)" />
+</p>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm an AI-focused developer passionate about building intelligent systems that think, learn, and interact like humans.  
+    My core expertise lies in <strong>LLMs, RAG pipelines, AI chatbots, and LangChain-based architectures</strong>.
+  </p>
+
+  <p>
+    I design and deploy production-ready AI solutions — from conversational agents to retrieval-augmented systems — 
+    combining deep AI engineering with strong full-stack foundations.
+  </p>
+
+  <p>
+    Alongside AI, I build scalable web applications using the MERN stack, ensuring seamless integration between 
+    intelligent backends and modern user interfaces.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <a href="mailto:verseofvishnu@gmail.com"><img src="https://img.shields.io/badge/📧_verseofvishnu@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤖_AI_First_Developer-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Socials</h3>
+<h3>🌐 Connect With Me</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Midhun-Nk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href="https://www.linkedin.com/in/vishnus2608/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  <a href="https://instagram.com/YOUR-INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
 
+---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
+
 <p align="center">
 <table>
+
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,Java" />
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 
 </td>
 
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap" />
+<td width="33%" align="center">
+<h3>🌐 MERN Stack</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+
 </td>
 
+<td width="33%" align="center">
+<h3>🧠 AI & ML</h3>
 
+<img src="https://skillicons.dev/icons?i=python,fastapi" /><br/><br/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_DB-1e1e2e?style=for-the-badge" />
 
+</td>
 </tr>
+
 <tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-<br/><br/>
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman,Pycharm" />
+<h3>⚡ Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,firebase,pycharm" />
+
 </td>
 </tr>
+
 </table>
 </p>
 
+---
 
+## 🚀 What I’m Currently Building
 
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
-</div>
+- AI-powered SaaS applications  
+- Advanced RAG-based knowledge assistants  
+- Custom AI Agents  
+- Intelligent automation systems  
+- Scalable MERN + AI hybrid platforms  
 
 ---
 
-## ❤️ Support Me
+## 🔥 2026 Focus
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+- Building production-grade AI systems  
+- Exploring Multi-Agent Architectures  
+- Contributing to open-source AI tools  
+- Scaling AI products globally  
+
+---
+
+## 💡 Philosophy
+
+> “AI is not the future. It’s the present — and I build with it.”
+
+---
