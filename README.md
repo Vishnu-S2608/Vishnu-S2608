@@ -51,66 +51,49 @@
 <br clear="all" />
 
 ---
-
 ## 🛠️ Tech Stack
 
-<p align="center">
-<table width="100%">
-
-<tr>
-<td width="33%" align="center" valign="top">
-
 ### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
-
-</td>
-
-<td width="33%" align="center" valign="top">
+---
 
 ### 🌐 MERN Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-
-</td>
-
-<td width="33%" align="center" valign="top">
+---
 
 ### 🧠 AI & ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DB-1e1e2e?style=for-the-badge" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector_DB-1e1e2e?style=for-the-badge" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" valign="top">
+---
 
 ### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
-
-</td>
-
-<td width="50%" align="center" valign="top">
+---
 
 ### ⚡ Tools
-
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,firebase,pycharm" />
-
-</td>
-</tr>
-
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,firebase,pycharm" />
 </p>
+
+
+
 ---
 
 ## 🚀 What I’m Currently Building
